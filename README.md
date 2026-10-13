@@ -1,16 +1,58 @@
-## Hi there 👋
+# Привет 👋
 
-<!--
-**oblop1997/oblop1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут **Паша**, мне **18 лет**, сейчас учусь в *ИТМО*.
 
-Here are some ideas to get you started:
+Люблю ходить с друзьями в КБ и потом сидеть в коворкинге.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Раньше занимался **профессиональным плаванием**, сейчас у меня **КМС**.
+
+Сейчас увлекаюсь изучением языков программирования:
+
+- `C`
+- `C++`
+- `Java`
+
+> Люблю гулять по вечернему Питеру и в целом считаю его лучшим городом.
+
+Также люблю **путешествовать**.
+
+---
+
+## Что изучаю
+
+| Тема | Уровень |
+| --- | --- |
+| `C` | начинающий |
+| `C++` | начинающий |
+| `Git` | изучаю |
+
+---
+
+## Немного C++
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!";
+    return 0;
+}
+```
+## Немного обо мне
+
+- [x] Учусь в ИТМО
+- [x] Занимался плаванием
+- [x] Изучаю программирование
+- [ ] Стал профессиональным разработчиком
+---
+
+## GitHub
+
+![GitHub Streak](https://streak-stats.demolab.com?user=wooqsee&theme=radical)
+
+[Ссылка на GitHub](https://github.com)
+
+---
+
+
+**Постепенно учусь :)**
